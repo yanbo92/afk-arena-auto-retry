@@ -1,0 +1,1 @@
+# afk-arena-auto-retry
